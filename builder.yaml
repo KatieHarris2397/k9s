@@ -5,7 +5,7 @@ buildtool: ""
 buildfile: main.go
 buildcmd: go build -o k9s
 outputpath: ""
-globallogs: "/root/BuilderTestDir/k9s/.builder"
+globallogs: "/root/BuilderTestDir"
 dockercmd: ""
 repobranch: ""
 bypassprompts: ""
