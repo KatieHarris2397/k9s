@@ -3,7 +3,7 @@ projectpath: /root/BuilderTestDir
 projecttype: go
 buildtool: ""
 buildfile: main.go
-buildcmd: go build -o k9s
+buildcmd: ""
 outputpath: ""
 globallogs: "/root/BuilderTestDir"
 dockercmd: ""
