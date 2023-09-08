@@ -3,8 +3,4 @@ projectpath: /root/BuilderTestDir
 projecttype: go
 buildtool: ""
 buildfile: main.go
-buildcmd: ""
-outputpath: ""
-globallogs: "/root/BuilderTestDir"
-dockercmd: ""
 repobranch: "test"
