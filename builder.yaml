@@ -1,5 +1,5 @@
 projectname: k9s
-projectpath: /Users/kitbe/Documents/test
+projectpath: /c/Users/kitbe/Documents/test
 projecttype: go
 buildtool: ""
 buildfile: main.go
